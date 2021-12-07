@@ -1,5 +1,7 @@
-<img src="waamh.jpg">
-
+<p align="center">
+  <img width="600" src="waamh.jpg">
+</p>
+  
 <!--
 **Yuri05/Yuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
