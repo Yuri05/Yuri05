@@ -1,8 +1,22 @@
+In the desert<br>
+I saw a creature, naked, bestial,<br>
+Who, squatting upon the ground,<br>
+Held his heart in his hands,<br>
+And ate of it.<br>
+I said, “Is it good, friend?”<br>
+“It is bitter—bitter,” he answered;<br>
+
+“But I like it<br>
+“Because it is bitter,<br>
+“And because it is my heart.”<br>
+
 <!--
 <p align="center">
   <img width="600" src="waamh.jpg">
 </p>
 -->
+
+<!--
 Oh there was a sow who had three little pigs,<br>
 There little piggies had she.<br>
 The old sow always went "oink, oink, oink,"<br>
@@ -22,6 +36,8 @@ Now there three piggies they up and they died.<br>
 A very sad sight to see.<br>
 So don't ever try to go "oink, oink, oink,"<br>
 When you oughta go "wee, wee, wee-ee-ee!"
+-->
+
 <!--
 **Yuri05/Yuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
