@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="300" src="DoingWrong.jpg">
+</p>
+
+<!--
 In the desert<br>
 I saw a creature, naked, bestial,<br>
 Who, squatting upon the ground,<br>
@@ -9,6 +14,7 @@ I said, “Is it good, friend?”<br>
 “But I like it<br>
 “Because it is bitter,<br>
 “And because it is my heart.”<br>
+-->
 
 <!--
 <p align="center">
