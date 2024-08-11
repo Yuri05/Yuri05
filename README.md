@@ -1,6 +1,17 @@
+Once upon a time, in a faraway land, people lived a simple life. They looked out over a pasture and said: 'Oh, look, a cow. And there: a horse. Even small children knew what a horse and a cow looked like.<br>
+On a whim, the emperor of this land decided to confuse his people and issued a decree that a cow could also be a horse. And a horse could be a cow. <br>
+At first, the people shook their heads in amusement. Why should a cow be a horse? They look completely different! Even a small child knows that.<br>
+But gradually more and more citizens began to wonder: maybe there was something to this decree after all. If the Emperor says a horse can be a cow and a cow can be a horse, how can we know any better? After all, he is our Emperor. A man of much greater wisdom than we are. He must know better, or he wouldn't be our emperor. <br>
+And so it came to pass that fewer and fewer citizens could believe their own eyes. When they looked at the pasture and saw a cow, they said: "It's not at all certain that it's a cow. It might as well be a horse. And when a neighbour replied: "Nonsense, it's a cow, you can see that! They turned away in disgust, doubting his sanity. <br>
+When the emperor saw this, he nodded in satisfaction. He went into his palace and laughed and laughed.
+
+©Vince Ebert.
+
+<!--
 <p align="center">
   <img width="300" src="DoingWrong.jpg">
 </p>
+-->
 
 <!--
 In the desert<br>
