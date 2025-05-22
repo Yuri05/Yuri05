@@ -1,3 +1,6 @@
+![23](https://github.com/user-attachments/assets/664be5dc-c6d5-4d67-bfe7-48216d2d1474)
+
+<!--
 Once upon a time, in a faraway land, people lived a simple life. They looked out over a pasture and said: 'Oh, look, a cow. And there: a horse. Even small children knew what a horse and a cow looked like.<br>
 On a whim, the emperor of this land decided to confuse his people and issued a decree that a cow could also be a horse. And a horse could be a cow. <br>
 At first, the people shook their heads in amusement. Why should a cow be a horse? They look completely different! Even a small child knows that.<br>
@@ -6,6 +9,7 @@ And so it came to pass that fewer and fewer citizens could believe their own eye
 When the emperor saw this, he nodded in satisfaction. He went into his palace and laughed and laughed.
 
 ©Vince Ebert.
+-->
 
 <!--
 <p align="center">
